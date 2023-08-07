@@ -1,4 +1,4 @@
-Name:		FrameCounter
+Name:		framecounter
 Version:	20171226
 Release:	1
 Summary:	A small program to count frames in RAW VC-1, MPEG-4 ASP and MPEG-4 AVC streams
